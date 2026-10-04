@@ -1,0 +1,19 @@
+# Dataset (download separately — see README)
+data/
+*.zip
+FoodSeg103/
+Task 1 Food Segmentation Dataset/
+
+# Notebook / Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Model checkpoints
+*.pt
+*.pth
+checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
